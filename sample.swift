@@ -32,5 +32,5 @@ class TestClass {
     }
 }
 
-let testClass1 = TestClass(name: "さきやま", age: 20)
+let testClass1 = TestClass(name: "さや", age: 20)
 testClass1.say()
