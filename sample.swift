@@ -1,6 +1,6 @@
 import Foundation
 
-let test = "今日は晴れです"
+let test = "今日は雨です"
 
 print(test)
 
