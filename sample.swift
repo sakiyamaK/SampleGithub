@@ -1,6 +1,6 @@
 import Foundation
 
-let test = "今日は雨です"
+let test = "今日は晴れです"
 
 print(test)
 
@@ -12,9 +12,7 @@ func method(_ count: Int) {
     }
 }
 
-
 method(10)
-
 
 print("---------------------")
 
