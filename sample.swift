@@ -29,6 +29,6 @@ class TestClass {
         print("私の名前は「\(name)」です。\(age)歳です")
     }
 }
-let testClass1 = TestClass(name: "アリス", age: 20)
+let testClass1 = TestClass(name: "ボブ", age: 20)
 
 testClass1.say()
