@@ -12,7 +12,7 @@ func method(_ count: Int) {
     }
 }
 
-method(5)
+method(3)
 
 print("---------------------")
 
